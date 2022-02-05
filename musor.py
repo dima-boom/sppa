@@ -1,7 +1,7 @@
 try:
 	import telebot, vk_api, threading, random, vk_captchasolver as vc, time, os
 	from telebot import types
-	bot = telebot.TeleBot('2049821280:AAEBvrF2tAj1JllbzVC-KrBc5qhqZy5R6gg')
+	bot = telebot.TeleBot('5152595455:AAG6-dlNTECW_TZpcoLbCgL7XdzEbz1cKxQ')
 
 	cl = types.ReplyKeyboardMarkup(resize_keyboard=True)
 	u = types.KeyboardButton('Спам 📲')
